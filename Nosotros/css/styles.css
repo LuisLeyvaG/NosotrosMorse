@@ -1,0 +1,19 @@
+#valores {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: fit-content;
+    justify-content: space-evenly;
+}
+
+.valor {
+    width: 350px;
+    padding: 0;
+    margin: 0;
+}
+
+.mision {
+    display: flex;
+    flex-direction: row;
+    
+}
